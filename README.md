@@ -2,4 +2,4 @@
 
 Un simple generador de contraseñas seguras
 
-Hecho con python :)
+Versión con python y con javascript :)
